@@ -10,7 +10,7 @@ class FeedList extends StatefulWidget {
 class FeedListState extends State<FeedList> {
   RssFeed feed;
   final _smallFont = const TextStyle(fontSize: 11.0);
-  final _biggerFont = const TextStyle(fontSize: 18.0);
+  final _biggerFont = const TextStyle(fontSize: 15.0);
 
   @override
   void initState() {
